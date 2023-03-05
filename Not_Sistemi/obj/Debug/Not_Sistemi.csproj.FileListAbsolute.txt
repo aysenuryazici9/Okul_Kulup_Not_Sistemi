@@ -1,0 +1,52 @@
+C:\Users\90536\Desktop\A-Z'yeC#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\Not_Sistemi.exe.config
+C:\Users\90536\Desktop\A-Z'yeC#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\Not_Sistemi.exe
+C:\Users\90536\Desktop\A-Z'yeC#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\Not_Sistemi.pdb
+C:\Users\90536\Desktop\A-Z'yeC#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\A-Z'yeC#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\90536\Desktop\A-Z'yeC#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.Form1.resources
+C:\Users\90536\Desktop\A-Z'yeC#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.Properties.Resources.resources
+C:\Users\90536\Desktop\A-Z'yeC#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.csproj.GenerateResource.cache
+C:\Users\90536\Desktop\A-Z'yeC#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\A-Z'yeC#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.exe
+C:\Users\90536\Desktop\A-Z'yeC#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.pdb
+C:\Users\90536\Desktop\A-Z'yeC#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.FrmOgrenicNotlar.resources
+C:\Users\90536\Desktop\A-Z'yeC#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.FrmOgretmen.resources
+C:\Users\90536\Desktop\A-Z'yeC#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.FrmKulup.resources
+C:\Users\90536\Desktop\A-Z'yeC#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.FrmDersler.resources
+C:\Users\90536\Desktop\A-Z'yeC#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.FrmOgrenci.resources
+C:\Users\90536\Desktop\A-Z'yeC#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.FrmSinavNotlar.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\Not_Sistemi.exe.config
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\Not_Sistemi.exe
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\Not_Sistemi.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.Form1.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.FrmDersler.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.FrmKulup.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.FrmOgrenci.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.FrmOgrenicNotlar.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.FrmOgretmen.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.FrmSinavNotlar.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.Properties.Resources.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.csproj.GenerateResource.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.exe
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.pdb
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.FrmOgretmenListesi.resources
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\90536\Desktop\MVCTamamlananProjeler\A'DAN Z'YE C#\NotSistemi\Not_Sistemi\Not_Sistemi\obj\Debug\Not_Sistemi.csproj.CopyComplete
